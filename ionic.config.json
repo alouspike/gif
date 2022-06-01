@@ -1,0 +1,7 @@
+{
+  "name": "gif",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
